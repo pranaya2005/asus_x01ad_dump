@@ -1,0 +1,13 @@
+# msm8953_64-user 10 WW_Phone-202005071625 17.2018.2004.31-20200507 release-keys
+- manufacturer: 
+- platform: msm8953
+- codename: ASUS_X01A_1
+- flavor: msm8953_64-user
+- release: 10
+- id: WW_Phone-202005071625
+- incremental: 17.2018.2004.31-20200507
+- tags: release-keys
+- fingerprint: 
+- brand: asus
+- branch: msm8953_64-user-10-WW_Phone-202005071625-17.2018.2004.31-20200507-release-keys
+- repo: asus_asus_x01a_1_dump
